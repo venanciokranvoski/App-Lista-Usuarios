@@ -12,7 +12,7 @@
 
 <h2>Listar informações de usuarios</h2>
 
-<h3>Armazenando no FlatList todas as imformações</h3>
+<h3>Armazenando no FlatList todas as informações</h3>
 <ul> 
     <li>Lista de Usuarios</li>
 </ul>
