@@ -3,6 +3,10 @@
 <hr />
 
 <ul>
+    <li>Utilizando o formato CLI</li>
+</ul>
+
+<ul>
     <li>Navigation Stack</li>
 </ul>
 
